@@ -1,0 +1,26 @@
+packages installed 
+react
+react router 
+react redux
+taiwind css
+react hot toast
+
+
+
+
+
+ROUTING:
+ 1. /  -> homepage   (creation + updation)
+ 2. /paste -> all pastes list   
+ 3. /paste/:id  -> specific paste
+
+ paste id in url --> update 
+ else --> creation
+
+ useSearchParams --> finds the parameter from url
+
+
+ colour pallete https://coolors.co/palette/0d1b2a-1b263b-415a77-778da9-e0e1dd
+
+
+ createdAt:new Date().toISOString(),  creates a new id using current date and time
